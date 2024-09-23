@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Mensaje_Hola">Hello World</string>
+    <string name="true_button">Verdadero</string>
+    <string name="texto_pregunta">Aqui_pregunta</string>
+    <string name="false_button">falso</string>
+    <string name="correct_toast" translatable="false">Correct!</string>
+    <string name="incorrect_toast" translatable="false">Incorrect!</string>
+    <string name= "question_australia">Canberra is the capital of Australia</string>
+    <string name="next_button">Siguiente</string>
+    <string name="preview_button">Preview</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
+    <string name="question_mideast">The suez canal connects the red sea and the india Ocean</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river in the Americas</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+</resources>
